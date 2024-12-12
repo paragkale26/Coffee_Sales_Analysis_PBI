@@ -9,12 +9,12 @@ This is the simple visualization project aims to examine coffee bean sales data 
   2. Customers - dim_customers
   3. Products - dim_products
    
-Dashboard Preview
+Dashboard Preview ======================================================================
 
 ![image](https://github.com/user-attachments/assets/56469aed-4281-4c81-9e06-fd89d0c39f9e)
 
 
-Data Model
+Data Model =============================================================================
 
 ![image](https://github.com/user-attachments/assets/6eedbfaa-20c3-457e-8812-c95654058443)
 
